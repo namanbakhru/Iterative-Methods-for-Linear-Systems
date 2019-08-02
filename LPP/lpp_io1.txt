@@ -1,0 +1,108 @@
+//Input
+Enter the dimension of the matrix:2 3
+Enter the elements of the matrix A row-wise
+2 3 4
+3 4 5
+Enter the elements of the vector b row-wise
+5
+6
+Do you want to have a maximize some objective function?(Y/N):N
+//Output
+Found  Non-Degenerate solution on selecting columns:1 2 
+"(-2, 3, 0, )"
+
+Found  Non-Degenerate solution on selecting columns:1 3 
+"(-0.5, 0, 1.5, )"
+
+Found  Non-Degenerate solution on selecting columns:2 3 
+"(0, -1, 2, )"
+
+
+//Input
+Enter the dimension of the matrix:2 3 
+Enter the elements of the matrix A row-wise
+2 1 4
+3 1 5
+Enter the elements of the vector b row-wise
+11
+14
+Do you want to have a maximize some objective function?(Y/N):N
+//Output
+Found  Non-Degenerate solution on selecting columns:1 2 
+"(3, 5, 0, )"
+
+Found  Non-Degenerate solution on selecting columns:1 3 
+"(0.5, 0, 2.5, )"
+
+Found  Non-Degenerate solution on selecting columns:2 3 
+"(0, -1, 3, )"
+
+
+//Input
+Enter the dimension of the matrix:2 5
+Enter the elements of the matrix A row-wise
+3 1 5 1 0    
+2 4 1 0 2
+Enter the elements of the vector b row-wise
+12
+8
+Do you want to have a maximize some objective function?(Y/N):N
+//Output
+Found  Non-Degenerate solution on selecting columns:1 2 
+"(4, 0, 0, 0, 0, )"
+
+Found  Non-Degenerate solution on selecting columns:1 3 
+"(4, 0, 0, 0, 0, )"
+
+Found  Non-Degenerate solution on selecting columns:1 4 
+"(4, 0, 0, 0, 0, )"
+
+Found  Non-Degenerate solution on selecting columns:1 5 
+"(4, 0, 0, 0, 0, )"
+
+Found  Non-Degenerate solution on selecting columns:2 3 
+"(0, 1.47368, 2.10526, 0, 0, )"
+
+Found  Non-Degenerate solution on selecting columns:2 4 
+"(0, 2, 0, 10, 0, )"
+
+Found  Non-Degenerate solution on selecting columns:2 5 
+"(0, 12, 0, 0, -20, )"
+
+Found  Non-Degenerate solution on selecting columns:3 4 
+"(0, 0, 8, -28, 0, )"
+
+Found  Non-Degenerate solution on selecting columns:3 5 
+"(0, 0, 2.4, 0, 2.8, )"
+
+Found  Non-Degenerate solution on selecting columns:4 5 
+"(0, 0, 0, 12, 4, )"
+
+
+//Input
+Enter the dimension of the matrix:2 4
+Enter the elements of the matrix A row-wise
+2 6 2 1
+6 4 4 6
+Enter the elements of the vector b row-wise
+3
+2
+Do you want to have a maximize some objective function?(Y/N):N
+//Output
+Found  Non-Degenerate solution on selecting columns:1 2 
+"(1.66533e-16, 0.5, 0, 0, )"
+
+Found  Non-Degenerate solution on selecting columns:1 3 
+"(-2, 0, 3.5, 0, )"
+
+Found  Non-Degenerate solution on selecting columns:1 4 
+"(2.66667, 0, 0, -2.33333, )"
+
+Found  Non-Degenerate solution on selecting columns:2 3 
+"(0, 0.5, 0, 0, )"
+
+Found  Non-Degenerate solution on selecting columns:2 4 
+"(0, 0.5, 0, 0, )"
+
+Found  Non-Degenerate solution on selecting columns:3 4 
+"(0, 0, 2, -1, )"

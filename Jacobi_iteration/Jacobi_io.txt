@@ -1,0 +1,38 @@
+//Input
+Enter the dimension of the matrix:2
+Enter the elements of the matrix A row-wise
+3 -1
+1 1
+Enter the elements of the vector b row-wise
+8
+8
+//Output
+Unique solution exists
+4.00183
+4.00183
+
+
+//Input
+Enter the dimension of the matrix:2
+Enter the elements of the matrix A row-wise
+2 -3
+6 -10
+Enter the elements of the vector b row-wise
+1
+5
+//Output
+Unique solution exists
+-2.44931
+-1.95945
+
+
+//Input
+Enter the dimension of the matrix:2
+Enter the elements of the matrix A row-wise
+2 -8
+1 -4
+Enter the elements of the vector b row-wise
+9
+-6
+//Output
+Unique solution doesn't exists
